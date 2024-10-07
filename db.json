@@ -27,7 +27,7 @@
     "url": "https://links.tensor.trade/",
     "description": "Description of Tensor",
     "title": "Tensor",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/tensor.trade_screenshot.png"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/links.tensor.trade_screenshot.png"
   },
   "staratlas": {
     "id": "098980e8-ae79-4837-8191-3a623c3238b7",
@@ -42,7 +42,7 @@
     "url": "http://Play.StarAtlas.com",
     "description": "Description of Star Atlas",
     "title": "Star Atlas",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/staratlas.com_screenshot.png"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/play.staratlas.com_screenshot.png"
   },
   "RainFi_": {
     "id": "09a581d3-5428-408d-a578-05aadb32c1cf",
@@ -372,7 +372,7 @@
     "url": "https://app.mango.markets/",
     "description": "Description of Mango Markets",
     "title": "Mango Markets",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/mango.markets_screenshot.png"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/app.mango.markets_screenshot.png"
   },
   "ledger_top": {
     "id": "3fd13d2b-10b8-4081-a767-bbbe7697654b",
@@ -507,7 +507,7 @@
     "url": "https://app.symmetry.fi",
     "description": "Description of Symmetry",
     "title": "Symmetry",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/symmetry.fi_screenshot.png"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/app.symmetry.fi_screenshot.png"
   },
   "xray_explorer": {
     "id": "4d793692-f2a9-4ea0-8dd5-688aa4d4647e",
@@ -552,7 +552,7 @@
     "url": "https://beast.flash.trade/",
     "description": "Description of FlashTrade",
     "title": "FlashTrade",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/flash.trade_screenshot.png"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/beast.flash.trade_screenshot.png"
   },
   "bonfida": {
     "id": "4e42a4f0-0d49-41d5-a82e-4315e40cf26d",
@@ -657,7 +657,7 @@
     "url": "https://phantasia.page.link/?apn=com.phantasia&ibi=app.phantasia&link=https://phantasia.app",
     "description": "Description of Phantasia",
     "title": "Phantasia",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/page.link_screenshot.png"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/phantasia.page.link_screenshot.png"
   },
   "solflare_wallet": {
     "id": "57efb17d-1ee5-4c28-b0c3-5ed46ab4596a",
@@ -837,7 +837,7 @@
     "url": "https://app.armadafi.so/",
     "description": "Description of Armada",
     "title": "Armada",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/armadafi.so_screenshot.png"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/app.armadafi.so_screenshot.png"
   },
   "sanctumso": {
     "id": "776c3a71-4693-4cf4-8bdd-11beb8a62b27",
@@ -1047,7 +1047,7 @@
     "url": "https://apps.apple.com/us/app/fuse-solana-smart-wallet/id6470302252",
     "description": "Description of Fuse",
     "title": "Fuse",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/apple.com_screenshot.png"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/apps.apple.com_screenshot.png"
   },
   "frakt_hq": {
     "id": "9f3cf504-bb5d-4560-904f-311240ddf691",
@@ -1152,7 +1152,7 @@
     "url": "http://hub.accessprotocol.co",
     "description": "Description of Access",
     "title": "Access",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/accessprotocol.co_screenshot.png"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/hub.accessprotocol.co_screenshot.png"
   },
   "TrailsProtocol": {
     "id": "b235e269-a70f-4095-9fa2-f323cc4aca4a",
@@ -1182,7 +1182,7 @@
     "url": "https://solis.maius.fun",
     "description": "Description of Solis",
     "title": "Solis",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/maius.fun_screenshot.png"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/solis.maius.fun_screenshot.png"
   },
   "saydialect": {
     "id": "bef55ed0-16f0-4203-b591-18b3b7c24b7a",
@@ -1302,7 +1302,7 @@
     "url": "https://app.parcl.co",
     "description": "Description of Parcl",
     "title": "Parcl",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/parcl.co_screenshot.png"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/app.parcl.co_screenshot.png"
   },
   "MegaRoadGame": {
     "id": "cf95bcb3-dbb1-42dc-ae42-07c41cf5e114",
@@ -1512,7 +1512,7 @@
     "url": "http://docs.hivemapper.com/",
     "description": "Description of Hivemapper",
     "title": "Hivemapper",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/hivemapper.com_screenshot.png"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/docs.hivemapper.com_screenshot.png"
   },
   "triton_one": {
     "id": "f2731502-055b-427e-a5b1-0fce533cecd1",
@@ -1662,6 +1662,6 @@
     "url": "https://app.maple.finance",
     "description": "Description of Maple",
     "title": "Maple",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/maple.finance_screenshot.png"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/app.maple.finance_screenshot.png"
   }
 }
