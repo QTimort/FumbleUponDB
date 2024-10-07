@@ -8,9 +8,9 @@
       "userTarget": "target-1",
       "status": "status-1",
       "handle": "handle-1",
-      "logo": "path/to/logo1.png",
-      "logoUrl": "https://raw.githubusercontent.com/your-username/dapps-database/main/logos/logo1.png",
-      "url": "https://dapp1.com",
+      "logo": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/Grim__Syndicate.png",
+      "logoUrl": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/Grim__Syndicate.png",
+      "url": "https://grimsyndicate.com",
       "description": "Description of dApp 1",
       "title": "dApp 1 Title"
     }
