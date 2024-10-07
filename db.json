@@ -12,7 +12,7 @@
     "url": "http://solcial.io",
     "description": "Description of Solcial",
     "title": "Solcial",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/solcial.io"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/solcial.io_screenshot.png"
   },
   "tensor_hq": {
     "id": "06f53df8-a7a6-47c7-b463-32b6a1d610f3",
@@ -27,7 +27,7 @@
     "url": "https://links.tensor.trade/",
     "description": "Description of Tensor",
     "title": "Tensor",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/tensor.trade"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/tensor.trade_screenshot.png"
   },
   "staratlas": {
     "id": "098980e8-ae79-4837-8191-3a623c3238b7",
@@ -42,7 +42,7 @@
     "url": "http://Play.StarAtlas.com",
     "description": "Description of Star Atlas",
     "title": "Star Atlas",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/staratlas.com"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/staratlas.com_screenshot.png"
   },
   "RainFi_": {
     "id": "09a581d3-5428-408d-a578-05aadb32c1cf",
@@ -57,7 +57,7 @@
     "url": "https://rain.fi",
     "description": "Description of Rain",
     "title": "Rain",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/rain.fi"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/rain.fi_screenshot.png"
   },
   "solanabeach_io": {
     "id": "0ff88a9b-89f3-4989-ab34-6bd5ee97bd78",
@@ -72,7 +72,7 @@
     "url": "https://solanabeach.io/",
     "description": "Description of SolanaBeach",
     "title": "SolanaBeach",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/solanabeach.io"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/solanabeach.io_screenshot.png"
   },
   "helium": {
     "id": "10cb5e43-cc9b-4dfe-97a0-504cb00ff320",
@@ -87,7 +87,7 @@
     "url": "https://linktr.ee/heliumnetwork",
     "description": "Description of Helium",
     "title": "Helium",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/linktr.ee"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/linktr.ee_screenshot.png"
   },
   "UltimateApp": {
     "id": "12eaf0c7-e759-478f-9477-0f349e0086ce",
@@ -102,7 +102,7 @@
     "url": "https://ultimate.app/",
     "description": "Description of Ultimate",
     "title": "Ultimate",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/ultimate.app"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/ultimate.app_screenshot.png"
   },
   "MagicEden": {
     "id": "13a2f5fb-d1fe-4954-84fb-1d0d87b0fa5d",
@@ -117,7 +117,7 @@
     "url": "https://linktr.ee/magiceden",
     "description": "Description of Magic Eden",
     "title": "Magic Eden",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/linktr.ee"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/linktr.ee_screenshot.png"
   },
   "SuperteamDAO": {
     "id": "154dc179-7ce2-41b5-8738-336650c59d0f",
@@ -147,7 +147,7 @@
     "url": "https://discord.com/invite/Sdv77Kzb",
     "description": "Description of Spedx",
     "title": "Spedx",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/discord.com"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/discord.com_screenshot.png"
   },
   "ottrfinance": {
     "id": "1d5f1701-5cdf-4a09-a078-812935e49bf5",
@@ -162,7 +162,7 @@
     "url": "https://ottr.finance",
     "description": "Description of Ottr",
     "title": "Ottr",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/ottr.finance"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/ottr.finance_screenshot.png"
   },
   "Shyft_to": {
     "id": "1e4d3990-9285-49b9-86ae-0c2f98e31460",
@@ -177,7 +177,7 @@
     "url": "https://shyft.to/",
     "description": "Description of Shyft",
     "title": "Shyft",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/shyft.to"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/shyft.to_screenshot.png"
   },
   "Vybe_Network": {
     "id": "21c130be-d724-41ce-bcba-25b95661ce7e",
@@ -192,7 +192,7 @@
     "url": "http://bento.me/vybenetwork",
     "description": "Description of Vybe Network",
     "title": "Vybe Network",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/bento.me"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/bento.me_screenshot.png"
   },
   "solscanofficial": {
     "id": "243808b5-be84-40d8-afed-e7ff72ee4a86",
@@ -207,7 +207,7 @@
     "url": "https://solscan.io/",
     "description": "Description of Solscan",
     "title": "Solscan",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/solscan.io"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/solscan.io_screenshot.png"
   },
   "GooseFX1": {
     "id": "2a411971-dfc5-4a4b-ba43-0391231d29a3",
@@ -222,7 +222,7 @@
     "url": "https://goosefx.io",
     "description": "Description of Goose FX",
     "title": "Goose FX",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/goosefx.io"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/goosefx.io_screenshot.png"
   },
   "MakerDAO": {
     "id": "2e19168c-dbfc-4bb2-ba40-c021cbad8be2",
@@ -252,7 +252,7 @@
     "url": "https://solcasino.io",
     "description": "Description of Solcasino",
     "title": "Solcasino",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/solcasino.io"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/solcasino.io_screenshot.png"
   },
   "spire_fyi": {
     "id": "31cfa12d-c54a-4359-8b76-9ad97cbcf0d4",
@@ -267,7 +267,7 @@
     "url": "https://spire.fyi/",
     "description": "Description of Spire",
     "title": "Spire",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/spire.fyi"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/spire.fyi_screenshot.png"
   },
   "jito_sol": {
     "id": "32724635-e0b1-4800-878d-e3ab8d15c98e",
@@ -282,7 +282,7 @@
     "url": "http://jito.network/staking",
     "description": "Description of Jito",
     "title": "Jito",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/jito.network"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/jito.network_screenshot.png"
   },
   "solblaze_org": {
     "id": "3521a481-bfed-4bd9-9f41-7a024ced7cb8",
@@ -297,7 +297,7 @@
     "url": "https://linktr.ee/solblaze",
     "description": "Description of Solblaze",
     "title": "Solblaze",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/linktr.ee"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/linktr.ee_screenshot.png"
   },
   "Lifinity_io": {
     "id": "35613640-c389-4eae-a137-4cbc5f734023",
@@ -312,7 +312,7 @@
     "url": "https://linktr.ee/lifinity",
     "description": "Description of Lifinity",
     "title": "Lifinity",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/linktr.ee"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/linktr.ee_screenshot.png"
   },
   "AllDomains_": {
     "id": "38f3abf5-c5f9-43b2-a0d4-258ee0d4242f",
@@ -327,7 +327,7 @@
     "url": "https://alldomains.id/",
     "description": "Description of All Domains",
     "title": "All Domains",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/alldomains.id"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/alldomains.id_screenshot.png"
   },
   "openbookdex": {
     "id": "39c67ae1-2fb6-48f4-bb80-404d35da390c",
@@ -342,7 +342,7 @@
     "url": "http://Openbook.ag",
     "description": "Description of OpenBook",
     "title": "OpenBook",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/openbook.ag"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/openbook.ag_screenshot.png"
   },
   "TipLinkOfficial": {
     "id": "3c08f513-2b32-4214-b5c7-d7e8e03137bf",
@@ -357,7 +357,7 @@
     "url": "https://TipLink.io",
     "description": "Description of TipLink",
     "title": "TipLink",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/tiplink.io"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/tiplink.io_screenshot.png"
   },
   "mangomarkets": {
     "id": "3cdd8d73-3ceb-421c-b079-ebb338fb09f0",
@@ -372,7 +372,7 @@
     "url": "https://app.mango.markets/",
     "description": "Description of Mango Markets",
     "title": "Mango Markets",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/mango.markets"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/mango.markets_screenshot.png"
   },
   "ledger_top": {
     "id": "3fd13d2b-10b8-4081-a767-bbbe7697654b",
@@ -387,7 +387,7 @@
     "url": "https://topledger.xyz/",
     "description": "Description of Ledger Top",
     "title": "Ledger Top",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/topledger.xyz"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/topledger.xyz_screenshot.png"
   },
   "FamousFoxFed": {
     "id": "4036f19c-de5f-4fe1-84ae-0aae34b57267",
@@ -402,7 +402,7 @@
     "url": "https://famousfoxes.com",
     "description": "Description of Citrus",
     "title": "Citrus",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/famousfoxes.com"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/famousfoxes.com_screenshot.png"
   },
   "Sentries_SOL": {
     "id": "419c747d-01ac-4740-80e9-54b018782278",
@@ -417,7 +417,7 @@
     "url": "https://www.sentries.io/",
     "description": "Description of Sentries",
     "title": "Sentries",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/sentries.io"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/sentries.io_screenshot.png"
   },
   "rendernetwork": {
     "id": "42a663bc-30ca-4e1f-8530-566b58ce506e",
@@ -432,7 +432,7 @@
     "url": "http://rendernetwork.com",
     "description": "Description of Render",
     "title": "Render",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/rendernetwork.com"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/rendernetwork.com_screenshot.png"
   },
   "solsniperxyz": {
     "id": "439367b9-59dd-423f-84f8-568e222a2c12",
@@ -447,7 +447,7 @@
     "url": "http://sniper.xyz",
     "description": "Description of Solsniper",
     "title": "Solsniper",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/sniper.xyz"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/sniper.xyz_screenshot.png"
   },
   "SDX_markets": {
     "id": "4586688f-bce2-433a-86e9-d2dc6636a98e",
@@ -462,7 +462,7 @@
     "url": "https://sdx.markets/",
     "description": "Description of SDX",
     "title": "SDX",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/sdx.markets"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/sdx.markets_screenshot.png"
   },
   "texture_fi": {
     "id": "4696f054-735f-44b5-8a42-9292ba12af1a",
@@ -477,7 +477,7 @@
     "url": "https://linktr.ee/texture_finance",
     "description": "Description of Texture Finance",
     "title": "Texture Finance",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/linktr.ee"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/linktr.ee_screenshot.png"
   },
   "LenderLabs": {
     "id": "49df56ee-02eb-485e-ab16-6c13850bf1c1",
@@ -492,7 +492,7 @@
     "url": "https://lenderlabs.xyz/",
     "description": "Description of Lender Labs",
     "title": "Lender Labs",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/lenderlabs.xyz"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/lenderlabs.xyz_screenshot.png"
   },
   "symmetry_fi": {
     "id": "4bf75278-3890-47fb-912c-06b913db056f",
@@ -507,7 +507,7 @@
     "url": "https://app.symmetry.fi",
     "description": "Description of Symmetry",
     "title": "Symmetry",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/symmetry.fi"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/symmetry.fi_screenshot.png"
   },
   "xray_explorer": {
     "id": "4d793692-f2a9-4ea0-8dd5-688aa4d4647e",
@@ -552,7 +552,7 @@
     "url": "https://beast.flash.trade/",
     "description": "Description of FlashTrade",
     "title": "FlashTrade",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/flash.trade"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/flash.trade_screenshot.png"
   },
   "bonfida": {
     "id": "4e42a4f0-0d49-41d5-a82e-4315e40cf26d",
@@ -567,7 +567,7 @@
     "url": "http://sns.id",
     "description": "Description of Bonfida",
     "title": "Bonfida",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/sns.id"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/sns.id_screenshot.png"
   },
   "cypher_protocol": {
     "id": "4e4b1e35-31dd-411f-98d5-4b15a42f39f2",
@@ -582,7 +582,7 @@
     "url": "https://cypher.trade",
     "description": "Description of Cypher",
     "title": "Cypher",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/cypher.trade"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/cypher.trade_screenshot.png"
   },
   "Realms_DAOs": {
     "id": "4f17d415-7138-4504-bf8f-652f972998c4",
@@ -597,7 +597,7 @@
     "url": "https://realms.today/",
     "description": "Description of Realms",
     "title": "Realms",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/realms.today"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/realms.today_screenshot.png"
   },
   "elusivprivacy": {
     "id": "4fa01132-002c-4eee-bb83-8f41bf79d9de",
@@ -627,7 +627,7 @@
     "url": "https://linktr.ee/sharkyfi",
     "description": "Description of Sharkify",
     "title": "Sharkify",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/linktr.ee"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/linktr.ee_screenshot.png"
   },
   "heliuslabs": {
     "id": "5591e38c-44b6-4ad5-b889-4bb92058bbbb",
@@ -642,7 +642,7 @@
     "url": "https://helius.dev",
     "description": "Description of Helius",
     "title": "Helius",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/helius.dev"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/helius.dev_screenshot.png"
   },
   "PhantasiaSports": {
     "id": "55d6977a-a459-4c0f-af99-59d426ab279b",
@@ -657,7 +657,7 @@
     "url": "https://phantasia.page.link/?apn=com.phantasia&ibi=app.phantasia&link=https://phantasia.app",
     "description": "Description of Phantasia",
     "title": "Phantasia",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/page.link"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/page.link_screenshot.png"
   },
   "solflare_wallet": {
     "id": "57efb17d-1ee5-4c28-b0c3-5ed46ab4596a",
@@ -672,7 +672,7 @@
     "url": "https://solflare.com/",
     "description": "Description of Solflare",
     "title": "Solflare",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/solflare.com"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/solflare.com_screenshot.png"
   },
   "SquadsProtocol": {
     "id": "591efeca-34c5-4fda-86af-2e8e6a5af681",
@@ -687,7 +687,7 @@
     "url": "http://squads.so",
     "description": "Description of Squads",
     "title": "Squads",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/squads.so"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/squads.so_screenshot.png"
   },
   "IronforgeCloud": {
     "id": "5996388a-ef7b-40a2-a288-bc21cfdc58a5",
@@ -702,7 +702,7 @@
     "url": "https://www.ironforge.cloud/",
     "description": "Description of Iron Forge",
     "title": "Iron Forge",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/ironforge.cloud"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/ironforge.cloud_screenshot.png"
   },
   "Sonarwatch": {
     "id": "5a5e660c-77a2-4869-82c7-cc817a710d75",
@@ -717,7 +717,7 @@
     "url": "http://sonar.watch",
     "description": "Description of SonarWatch",
     "title": "SonarWatch",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/sonar.watch"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/sonar.watch_screenshot.png"
   },
   "SolanaFloor": {
     "id": "5d3908f9-f272-4bd5-b29c-84604031698d",
@@ -732,7 +732,7 @@
     "url": "https://solanafloor.com",
     "description": "Description of SolanaFloor",
     "title": "SolanaFloor",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/solanafloor.com"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/solanafloor.com_screenshot.png"
   },
   "StepFinance_": {
     "id": "61db97fa-d23f-4482-9cab-73bd900b71de",
@@ -747,7 +747,7 @@
     "url": "https://step.finance/",
     "description": "Description of StepFinance",
     "title": "StepFinance",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/step.finance"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/step.finance_screenshot.png"
   },
   "marginfi": {
     "id": "62bfead1-647e-4082-8986-25efafcd081d",
@@ -762,7 +762,7 @@
     "url": "https://marginfi.com",
     "description": "Description of Marginfi",
     "title": "Marginfi",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/marginfi.com"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/marginfi.com_screenshot.png"
   },
   "PhoenixTrade_": {
     "id": "6370f607-1036-4c02-aa45-6f2915a5b2b0",
@@ -777,7 +777,7 @@
     "url": "http://phoenix.trade",
     "description": "Description of Phoenix",
     "title": "Phoenix",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/phoenix.trade"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/phoenix.trade_screenshot.png"
   },
   "LightProtocol": {
     "id": "66e817d9-4b01-4288-8b65-365218ec32d8",
@@ -792,7 +792,7 @@
     "url": "https://github.com/Lightprotocol/light-protocol",
     "description": "Description of Light Protocol",
     "title": "Light Protocol",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/github.com"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/github.com_screenshot.png"
   },
   "solendprotocol": {
     "id": "68b4545a-c13b-4aa4-a481-fba5a3c84406",
@@ -822,7 +822,7 @@
     "url": "http://root.exchange",
     "description": "Description of Roothq",
     "title": "Roothq",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/root.exchange"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/root.exchange_screenshot.png"
   },
   "ArmadaFi": {
     "id": "70f98ed0-4f9f-4aef-adee-ef059ed5a451",
@@ -837,7 +837,7 @@
     "url": "https://app.armadafi.so/",
     "description": "Description of Armada",
     "title": "Armada",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/armadafi.so"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/armadafi.so_screenshot.png"
   },
   "sanctumso": {
     "id": "776c3a71-4693-4cf4-8bdd-11beb8a62b27",
@@ -852,7 +852,7 @@
     "url": "https://linktr.ee/sanctumso",
     "description": "Description of Sanctum",
     "title": "Sanctum",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/linktr.ee"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/linktr.ee_screenshot.png"
   },
   "flipsidecrypto": {
     "id": "78b6b285-e19d-4edd-8ee9-73849e01149e",
@@ -867,7 +867,7 @@
     "url": "https://flipsidecrypto.xyz",
     "description": "Description of Flipside",
     "title": "Flipside",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/flipsidecrypto.xyz"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/flipsidecrypto.xyz_screenshot.png"
   },
   "helium_mobile": {
     "id": "7ce0eed7-6df9-49e4-af39-4011051df28f",
@@ -882,7 +882,7 @@
     "url": "https://linktr.ee/heliummobile",
     "description": "Description of Helium",
     "title": "Helium",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/linktr.ee"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/linktr.ee_screenshot.png"
   },
   "solarplex_xyz": {
     "id": "84d0b831-18cf-40c2-abe0-28bd9d52a50f",
@@ -897,7 +897,7 @@
     "url": "http://www.solarplex.xyz",
     "description": "Description of Solarplex",
     "title": "Solarplex",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/solarplex.xyz"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/solarplex.xyz_screenshot.png"
   },
   "UXDProtocol": {
     "id": "86074f0e-6d1a-4836-ab5c-f79ed5a1ea40",
@@ -912,7 +912,7 @@
     "url": "https://uxd.fi/",
     "description": "Description of UXD",
     "title": "UXD",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/uxd.fi"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/uxd.fi_screenshot.png"
   },
   "HubbleProtocol": {
     "id": "867f524d-54d5-45f8-98cf-f5cb615b8151",
@@ -927,7 +927,7 @@
     "url": "https://hubbleprotocol.io/twitter",
     "description": "Description of Hubble",
     "title": "Hubble",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/hubbleprotocol.io"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/hubbleprotocol.io_screenshot.png"
   },
   "xNFT_Backpack": {
     "id": "8d29cf89-9464-46af-a7fb-f996ac51bd3b",
@@ -957,7 +957,7 @@
     "url": "http://publed.io",
     "description": "Description of Publed",
     "title": "Publed",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/publed.io"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/publed.io_screenshot.png"
   },
   "photofinishgame": {
     "id": "95177291-9ea3-4469-b786-a4a337082f5f",
@@ -972,7 +972,7 @@
     "url": "https://photofinish.live/",
     "description": "Description of Photo Finish",
     "title": "Photo Finish",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/photofinish.live"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/photofinish.live_screenshot.png"
   },
   "streamflow_fi": {
     "id": "989612a6-6fdc-4aa8-a767-4fc77d2d9bf8",
@@ -987,7 +987,7 @@
     "url": "https://linktr.ee/streamflow",
     "description": "Description of Streamflow",
     "title": "Streamflow",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/linktr.ee"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/linktr.ee_screenshot.png"
   },
   "HxroNetwork": {
     "id": "9ae8379d-5ea0-40c3-94ac-f3d905c9d77f",
@@ -1002,7 +1002,7 @@
     "url": "https://linktr.ee/hxronetwork",
     "description": "Description of Hxro",
     "title": "Hxro",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/linktr.ee"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/linktr.ee_screenshot.png"
   },
   "CloneProtocol": {
     "id": "9d981f9e-7aba-481c-855d-654d4f3f5d84",
@@ -1017,7 +1017,7 @@
     "url": "https://clone.so",
     "description": "Description of Clone",
     "title": "Clone",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/clone.so"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/clone.so_screenshot.png"
   },
   "HelloMoon_io": {
     "id": "9dc42be8-917d-48cb-ac73-0cc97b7a5e3f",
@@ -1032,7 +1032,7 @@
     "url": "http://hellomoon.io",
     "description": "Description of Hello Moon",
     "title": "Hello Moon",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/hellomoon.io"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/hellomoon.io_screenshot.png"
   },
   "fusewallet": {
     "id": "9f119953-b6e5-4224-b54e-6d76b1cc8eb5",
@@ -1047,7 +1047,7 @@
     "url": "https://apps.apple.com/us/app/fuse-solana-smart-wallet/id6470302252",
     "description": "Description of Fuse",
     "title": "Fuse",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/apple.com"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/apple.com_screenshot.png"
   },
   "frakt_hq": {
     "id": "9f3cf504-bb5d-4560-904f-311240ddf691",
@@ -1062,7 +1062,7 @@
     "url": "http://banx.gg",
     "description": "Description of Frakt HQ",
     "title": "Frakt HQ",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/banx.gg"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/banx.gg_screenshot.png"
   },
   "HyperspaceSol": {
     "id": "9f713526-fdc7-4faf-a763-1d7d65bbcaa4",
@@ -1092,7 +1092,7 @@
     "url": "https://linktr.ee/psy.fi",
     "description": "Description of Psy",
     "title": "Psy",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/linktr.ee"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/linktr.ee_screenshot.png"
   },
   "BlocksmithLabs": {
     "id": "a73dd2c1-eaba-4e6f-b79d-dfa304eb84ce",
@@ -1107,7 +1107,7 @@
     "url": "https://bento.me/blocksmithlabs",
     "description": "Description of Blocksmith Labs",
     "title": "Blocksmith Labs",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/bento.me"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/bento.me_screenshot.png"
   },
   "WolfCapital_": {
     "id": "a7c63987-154c-4823-a171-c433a5fbe2dd",
@@ -1122,7 +1122,7 @@
     "url": "https://discord.gg/cubgbmnE36",
     "description": "Description of WolfCapital",
     "title": "WolfCapital",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/discord.gg"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/discord.gg_screenshot.png"
   },
   "phantom": {
     "id": "a8b53c28-7235-4428-8833-c778d40e68b2",
@@ -1137,7 +1137,7 @@
     "url": "https://phantom.app",
     "description": "Description of Phantom",
     "title": "Phantom",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/phantom.app"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/phantom.app_screenshot.png"
   },
   "AccessProtocol": {
     "id": "ae0b60b1-4212-4b25-8dbe-1be50290d006",
@@ -1152,7 +1152,7 @@
     "url": "http://hub.accessprotocol.co",
     "description": "Description of Access",
     "title": "Access",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/accessprotocol.co"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/accessprotocol.co_screenshot.png"
   },
   "TrailsProtocol": {
     "id": "b235e269-a70f-4095-9fa2-f323cc4aca4a",
@@ -1182,7 +1182,7 @@
     "url": "https://solis.maius.fun",
     "description": "Description of Solis",
     "title": "Solis",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/maius.fun"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/maius.fun_screenshot.png"
   },
   "saydialect": {
     "id": "bef55ed0-16f0-4203-b591-18b3b7c24b7a",
@@ -1197,7 +1197,7 @@
     "url": "https://linktr.ee/dialect.to",
     "description": "Description of Dialect",
     "title": "Dialect",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/linktr.ee"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/linktr.ee_screenshot.png"
   },
   "RaydiumProtocol": {
     "id": "bfa6dbf6-bf56-4e2f-99f6-8c6e38d53b34",
@@ -1212,7 +1212,7 @@
     "url": "https://raydium.io",
     "description": "Description of Raydium",
     "title": "Raydium",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/raydium.io"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/raydium.io_screenshot.png"
   },
   "superstakesol": {
     "id": "c19b1361-4692-4e06-ae85-cef0099b8a1a",
@@ -1227,7 +1227,7 @@
     "url": "https://discord.gg/driftprotocol",
     "description": "Description of Superstake",
     "title": "Superstake",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/discord.gg"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/discord.gg_screenshot.png"
   },
   "DriftProtocol": {
     "id": "c270c965-e021-414a-b0a4-5c4a1798ea3d",
@@ -1242,7 +1242,7 @@
     "url": "https://linktr.ee/drift.trade",
     "description": "Description of Drift",
     "title": "Drift",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/linktr.ee"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/linktr.ee_screenshot.png"
   },
   "ZetaMarkets": {
     "id": "c2b5a444-a67a-45e1-980f-c635c4303fb1",
@@ -1257,7 +1257,7 @@
     "url": "https://www.zeta.markets/",
     "description": "Description of Zeta Markets",
     "title": "Zeta Markets",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/zeta.markets"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/zeta.markets_screenshot.png"
   },
   "GenesysGo": {
     "id": "c5b23cb8-a7c8-465a-b78a-dad54d52fcaf",
@@ -1272,7 +1272,7 @@
     "url": "https://shdwdrive.com",
     "description": "Description of Genesys Go",
     "title": "Genesys Go",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/shdwdrive.com"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/shdwdrive.com_screenshot.png"
   },
   "glowwallet": {
     "id": "c8bf5bfa-cfd3-4d87-b798-825df12c3314",
@@ -1287,7 +1287,7 @@
     "url": "http://glow.app",
     "description": "Description of Glow",
     "title": "Glow",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/glow.app"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/glow.app_screenshot.png"
   },
   "Parcl": {
     "id": "cf52c1ed-de1d-4e2f-8051-1003d1cf0269",
@@ -1302,7 +1302,7 @@
     "url": "https://app.parcl.co",
     "description": "Description of Parcl",
     "title": "Parcl",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/parcl.co"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/parcl.co_screenshot.png"
   },
   "MegaRoadGame": {
     "id": "cf95bcb3-dbb1-42dc-ae42-07c41cf5e114",
@@ -1317,7 +1317,7 @@
     "url": "http://megaroad.io",
     "description": "Description of Mega Road",
     "title": "Mega Road",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/megaroad.io"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/megaroad.io_screenshot.png"
   },
   "Neon_EVM": {
     "id": "d2d3c703-b6f2-40cd-a051-086673a699e4",
@@ -1332,7 +1332,7 @@
     "url": "https://neonevm.org/",
     "description": "Description of Neon",
     "title": "Neon",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/neonevm.org"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/neonevm.org_screenshot.png"
   },
   "HawksightCo": {
     "id": "d452e831-acb2-4649-bbc2-c536dfc1efc2",
@@ -1362,7 +1362,7 @@
     "url": "https://linktr.ee/drip.haus",
     "description": "Description of Drip Haus",
     "title": "Drip Haus",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/linktr.ee"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/linktr.ee_screenshot.png"
   },
   "MarinadeFinance": {
     "id": "db7149ec-4149-49c4-86b6-6c781270be45",
@@ -1377,7 +1377,7 @@
     "url": "https://linktr.ee/marinadefinance",
     "description": "Description of Marinade",
     "title": "Marinade",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/linktr.ee"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/linktr.ee_screenshot.png"
   },
   "orca_so": {
     "id": "e096eb0a-eb15-4866-917e-ec1a1520a703",
@@ -1392,7 +1392,7 @@
     "url": "http://orca.so",
     "description": "Description of Orca",
     "title": "Orca",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/orca.so"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/orca.so_screenshot.png"
   },
   "PythNetwork": {
     "id": "e2c23dab-42dc-42e7-b8af-22f1c0899305",
@@ -1407,7 +1407,7 @@
     "url": "https://linktr.ee/pythnetwork",
     "description": "Description of Pyth",
     "title": "Pyth",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/linktr.ee"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/linktr.ee_screenshot.png"
   },
   "DualFinance": {
     "id": "e583e5f5-99ae-46e1-bb63-fd41d018777a",
@@ -1422,7 +1422,7 @@
     "url": "http://dual.finance",
     "description": "Description of Dual",
     "title": "Dual",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/dual.finance"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/dual.finance_screenshot.png"
   },
   "_cubik": {
     "id": "e6e18bb9-9bed-4193-9267-fa4c86027a30",
@@ -1437,7 +1437,7 @@
     "url": "http://cubik.so",
     "description": "Description of Cubik",
     "title": "Cubik",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/cubik.so"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/cubik.so_screenshot.png"
   },
   "Grim__Syndicate": {
     "id": "eaf1da44-20e9-4ced-b0c9-39d81701d29b",
@@ -1452,7 +1452,7 @@
     "url": "http://www.grimsyndicate.com",
     "description": "Description of Abyssal Walkers",
     "title": "Abyssal Walkers",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/grimsyndicate.com"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/grimsyndicate.com_screenshot.png"
   },
   "Kamino_Finance": {
     "id": "ec7b1759-4cbc-4632-8a61-ba47e946444e",
@@ -1482,7 +1482,7 @@
     "url": "https://tulip.garden",
     "description": "Description of Tulip",
     "title": "Tulip",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/tulip.garden"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/tulip.garden_screenshot.png"
   },
   "CircuitTrading_": {
     "id": "efa2cc8a-b3a1-4d4b-baa5-50d6c9722497",
@@ -1497,7 +1497,7 @@
     "url": "http://www.circuit.trade",
     "description": "Description of Circuit Trading",
     "title": "Circuit Trading",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/circuit.trade"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/circuit.trade_screenshot.png"
   },
   "Hivemapper": {
     "id": "f26f14a4-99dd-4477-bc03-8df031963d17",
@@ -1512,7 +1512,7 @@
     "url": "http://docs.hivemapper.com/",
     "description": "Description of Hivemapper",
     "title": "Hivemapper",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/hivemapper.com"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/hivemapper.com_screenshot.png"
   },
   "triton_one": {
     "id": "f2731502-055b-427e-a5b1-0fce533cecd1",
@@ -1527,7 +1527,7 @@
     "url": "https://www.triton.one",
     "description": "Description of Triton One",
     "title": "Triton One",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/triton.one"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/triton.one_screenshot.png"
   },
   "datawisp": {
     "id": "f445325a-c83c-4860-bdf2-42f01f6933da",
@@ -1542,7 +1542,7 @@
     "url": "http://www.datawisp.io",
     "description": "Description of DataSwip",
     "title": "DataSwip",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/datawisp.io"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/datawisp.io_screenshot.png"
   },
   "lulo_finance": {
     "id": "f469138a-4a7a-4ef2-8498-be4ff7808ab6",
@@ -1572,7 +1572,7 @@
     "url": "https://linktr.ee/meteora.ag",
     "description": "Description of Meteora",
     "title": "Meteora",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/linktr.ee"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/linktr.ee_screenshot.png"
   },
   "sujiko_perps": {
     "id": "f65a09ff-e841-4770-803f-3215f4263c08",
@@ -1587,7 +1587,7 @@
     "url": "https://linktr.ee/sujiko",
     "description": "Description of Sujiko",
     "title": "Sujiko",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/linktr.ee"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/linktr.ee_screenshot.png"
   },
   "solanapay": {
     "id": "f7d01b64-c317-4d68-ad68-86ab8f8b0937",
@@ -1617,7 +1617,7 @@
     "url": "http://solana.fm",
     "description": "Description of Solana FM",
     "title": "Solana FM",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/solana.fm"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/solana.fm_screenshot.png"
   },
   "getcode": {
     "id": "f9f651c0-e6ea-417a-bf9d-6ae895af4b21",
@@ -1632,7 +1632,7 @@
     "url": "http://getcode.com",
     "description": "Description of Code",
     "title": "Code",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/getcode.com"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/getcode.com_screenshot.png"
   },
   "JupiterExchange": {
     "id": "fa5d92f1-0263-481d-aa1a-816d3247846a",
@@ -1647,7 +1647,7 @@
     "url": "https://jup.ag",
     "description": "Description of Jupiter",
     "title": "Jupiter",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/jup.ag"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/jup.ag_screenshot.png"
   },
   "maplefinance": {
     "id": "fb11419d-21e0-46b2-8d63-f0506cb34a09",
@@ -1662,6 +1662,6 @@
     "url": "https://app.maple.finance",
     "description": "Description of Maple",
     "title": "Maple",
-    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/maple.finance"
+    "preview": "https://raw.githubusercontent.com/QTimort/FumbleUponDB/refs/heads/master/assets/website/maple.finance_screenshot.png"
   }
 }
